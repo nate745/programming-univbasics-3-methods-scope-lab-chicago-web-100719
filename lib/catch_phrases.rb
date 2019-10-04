@@ -12,3 +12,7 @@ def link
   iconic = "It's Dangerous To Go Alone! Take This."
   puts iconic
 end
+
+def any_phrase(phrase)
+  puts phrase
+end
