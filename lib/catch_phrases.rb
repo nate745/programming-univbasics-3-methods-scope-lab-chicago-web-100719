@@ -9,5 +9,6 @@ def toadstool
 end
 
 def link
-  return "It's Dangerous To Go Alone! Take This."
+  iconic = "It's Dangerous To Go Alone! Take This."
+  puts iconic
 end
